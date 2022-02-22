@@ -20,6 +20,3 @@ while ( x >= 200){
     console.log("Lighthouse");
   } else {
     console.log (x);
-  }
-  x = x + 1;
-}
